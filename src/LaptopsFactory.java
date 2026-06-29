@@ -1,3 +1,3 @@
-public abstract class LatopsFactory {
+public abstract class LaptopsFactory {
     public abstract Laptops ejecutarLaptops();
 }
